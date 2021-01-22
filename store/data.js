@@ -35,4 +35,10 @@ module.exports = {
     lastName: 'Hansson',
     genre: 'Rock',
   },
+  
+  Bob: {
+    firstName: 'Bob',
+    lastName: 'Marley',
+    genre: 'Pop',
+  },
 };
